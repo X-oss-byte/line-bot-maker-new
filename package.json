@@ -25,7 +25,7 @@
     "@radix-ui/react-tabs": "^1.0.3",
     "@radix-ui/react-tooltip": "^1.0.5",
     "appwrite": "^11.0.0",
-    "axios": "^1.4.0",
+    "axios": "^1.6.0",
     "classnames": "^2.3.1",
     "date-fns": "^2.30.0",
     "nanoid": "^4.0.2",
